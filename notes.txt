@@ -1,0 +1,1 @@
+1. Gradient fade in both side in Policies, Hotels & Food and Appointments container is a bit tricky.
